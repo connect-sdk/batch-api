@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/longrunning v0.5.1
 	connectrpc.com/connect v1.11.1
 	github.com/connect-sdk/pubsub-api v0.0.0-20230930081747-90d406f58b08
-	github.com/googleapis/gax-go v1.0.3
+	github.com/googleapis/gax-go v2.0.2+incompatible
 	github.com/googleapis/gax-go/v2 v2.12.0
 	google.golang.org/api v0.143.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20231002182017-d307bd883b97
@@ -18,7 +18,6 @@ require (
 	cloud.google.com/go/compute v1.23.0 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	cloud.google.com/go/iam v1.1.2 // indirect
-	github.com/BurntSushi/toml v1.3.2 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.0.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
@@ -27,20 +26,14 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.3.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/crypto v0.13.0 // indirect
-	golang.org/x/exp v0.0.0-20230905200255-921286631fa9 // indirect
-	golang.org/x/exp/typeparams v0.0.0-20230905200255-921286631fa9 // indirect
-	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
-	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.15.0 // indirect
 	golang.org/x/oauth2 v0.12.0 // indirect
 	golang.org/x/sync v0.3.0 // indirect
 	golang.org/x/sys v0.12.0 // indirect
 	golang.org/x/text v0.13.0 // indirect
-	golang.org/x/tools v0.13.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20231002182017-d307bd883b97 // indirect
 	google.golang.org/grpc v1.58.2 // indirect
-	honnef.co/go/tools v0.4.6 // indirect
 )
 
 require (
