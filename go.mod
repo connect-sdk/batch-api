@@ -3,7 +3,7 @@ module github.com/connect-sdk/batch-api
 go 1.21.1
 
 require (
-	cloud.google.com/go/longrunning v0.5.1
+	cloud.google.com/go/longrunning v0.5.2
 	connectrpc.com/connect v1.11.1
 	github.com/connect-sdk/pubsub-api v0.0.0-20231009090131-8dfeb533020f
 	github.com/googleapis/gax-go/v2 v2.12.0
@@ -25,7 +25,7 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.3.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/net v0.16.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.13.0 // indirect
 	golang.org/x/sync v0.4.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
