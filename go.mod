@@ -25,7 +25,7 @@ require (
 	github.com/googleapis/enterprise-certificate-proxy v0.3.1 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/net v0.16.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.13.0 // indirect
 	golang.org/x/sync v0.4.0 // indirect
 	golang.org/x/sys v0.13.0 // indirect
@@ -36,6 +36,6 @@ require (
 )
 
 require (
-	cloud.google.com/go/batch v1.5.0
+	cloud.google.com/go/batch v1.6.0
 	google.golang.org/genproto v0.0.0-20231002182017-d307bd883b97 // indirect
 )
