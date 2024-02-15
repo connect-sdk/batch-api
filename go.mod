@@ -7,7 +7,7 @@ require (
 	connectrpc.com/connect v1.14.0
 	github.com/connect-sdk/pubsub-api v0.0.0-20240118000236-2ed67bf9d746
 	github.com/googleapis/gax-go/v2 v2.12.1
-	google.golang.org/api v0.164.0
+	google.golang.org/api v0.165.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240205150955-31a09d347014
 	google.golang.org/protobuf v1.32.0
 )
