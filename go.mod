@@ -4,7 +4,7 @@ go 1.21.1
 
 require (
 	cloud.google.com/go/longrunning v0.5.5
-	connectrpc.com/connect v1.15.0
+	connectrpc.com/connect v1.16.0
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	github.com/googleapis/gax-go/v2 v2.12.3
 	google.golang.org/api v0.169.0
