@@ -3,7 +3,7 @@ module github.com/connect-sdk/batch-api
 go 1.21.1
 
 require (
-	cloud.google.com/go/longrunning v0.5.5
+	cloud.google.com/go/longrunning v0.5.6
 	connectrpc.com/connect v1.16.0
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	github.com/googleapis/gax-go/v2 v2.12.3
@@ -22,7 +22,7 @@ require (
 	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
-	github.com/golang/protobuf v1.5.3 // indirect
+	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
 	github.com/googleapis/enterprise-certificate-proxy v0.3.2 // indirect
 	go.opencensus.io v0.24.0 // indirect
