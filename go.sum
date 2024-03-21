@@ -1,8 +1,8 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.112.1 h1:uJSeirPke5UNZHIb4SxfZklVSiWWVqW4oXlETwZziwM=
 cloud.google.com/go v0.112.1/go.mod h1:+Vbu+Y1UU+I1rjmzeMOb/8RfkKJK2Gyxi1X6jJCZLo4=
-cloud.google.com/go/batch v1.8.2 h1:wYtUBI8NND3FNUknEEcJiag7gsDJWlQ2EG89PK+GDCA=
-cloud.google.com/go/batch v1.8.2/go.mod h1:QA8HAbPZ1tTcTFZmRgk7v13i0tNQ9x6s1wsZl6jZQh0=
+cloud.google.com/go/batch v1.8.3 h1:b9fVZDxxp4LWMhXV7uAhyMGmPuzlzPrsZ0uh+RM92h8=
+cloud.google.com/go/batch v1.8.3/go.mod h1:mnDskkuz1h+6i/ra8IMhTf8HwG8GOswSRKPJdAOgSbE=
 cloud.google.com/go/compute v1.24.0 h1:phWcR2eWzRJaL/kOiJwfFsPs4BaKq1j6vnpZrc1YlVg=
 cloud.google.com/go/compute v1.24.0/go.mod h1:kw1/T+h/+tK2LJK0wiPPx1intgdAM3j/g3hFDlscY40=
 cloud.google.com/go/compute/metadata v0.2.3 h1:mg4jlk7mCAj6xXp9UJ4fjI9VUI5rubuGBW5aJ7UnBMY=
