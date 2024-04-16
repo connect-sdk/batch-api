@@ -8,7 +8,7 @@ require (
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	github.com/googleapis/gax-go/v2 v2.12.3
 	google.golang.org/api v0.172.0
-	google.golang.org/genproto/googleapis/api v0.0.0-20240311132316-a219d84964c2
+	google.golang.org/genproto/googleapis/api v0.0.0-20240401170217-c3f982113cda
 	google.golang.org/protobuf v1.33.0
 )
 
@@ -16,7 +16,7 @@ require (
 	cloud.google.com/go v0.112.1 // indirect
 	cloud.google.com/go/compute v1.24.0 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
-	cloud.google.com/go/iam v1.1.6 // indirect
+	cloud.google.com/go/iam v1.1.7 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.0.4 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
@@ -39,11 +39,11 @@ require (
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240318140521-94a12d6c2237 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240325203815-454cdb8f5daa // indirect
 	google.golang.org/grpc v1.62.1 // indirect
 )
 
 require (
-	cloud.google.com/go/batch v1.8.3
+	cloud.google.com/go/batch v1.8.4
 	google.golang.org/genproto v0.0.0-20240228224816-df926f6c8641 // indirect
 )
