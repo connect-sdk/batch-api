@@ -44,6 +44,6 @@ require (
 )
 
 require (
-	cloud.google.com/go/batch v1.8.8
+	cloud.google.com/go/batch v1.9.0
 	google.golang.org/genproto v0.0.0-20240624140628-dc46fd24d27d // indirect
 )
