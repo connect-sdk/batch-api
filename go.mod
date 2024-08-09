@@ -14,7 +14,7 @@ require (
 
 require (
 	cloud.google.com/go v0.115.0 // indirect
-	cloud.google.com/go/auth v0.7.3 // indirect
+	cloud.google.com/go/auth v0.8.0 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.3 // indirect
 	cloud.google.com/go/compute/metadata v0.5.0 // indirect
 	cloud.google.com/go/iam v1.1.12 // indirect
@@ -43,6 +43,6 @@ require (
 )
 
 require (
-	cloud.google.com/go/batch v1.9.2
+	cloud.google.com/go/batch v1.9.3
 	google.golang.org/genproto v0.0.0-20240730163845-b1a4ccb954bf // indirect
 )
