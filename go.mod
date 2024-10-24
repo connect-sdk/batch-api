@@ -3,18 +3,18 @@ module github.com/connect-sdk/batch-api
 go 1.21.1
 
 require (
-	cloud.google.com/go/longrunning v0.6.1
+	cloud.google.com/go/longrunning v0.6.2
 	connectrpc.com/connect v1.17.0
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	github.com/googleapis/gax-go/v2 v2.13.0
-	google.golang.org/api v0.202.0
+	google.golang.org/api v0.203.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20241007155032-5fefd90f89a9
 	google.golang.org/protobuf v1.35.1
 )
 
 require (
 	cloud.google.com/go v0.116.0 // indirect
-	cloud.google.com/go/auth v0.9.8 // indirect
+	cloud.google.com/go/auth v0.9.9 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.4 // indirect
 	cloud.google.com/go/compute/metadata v0.5.2 // indirect
 	cloud.google.com/go/iam v1.2.1 // indirect
