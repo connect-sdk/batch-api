@@ -10,7 +10,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.14.1
 	google.golang.org/api v0.218.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20241209162323-e6fa225c2576
-	google.golang.org/protobuf v1.36.3
+	google.golang.org/protobuf v1.36.4
 )
 
 require (
