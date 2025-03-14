@@ -1,7 +1,7 @@
 module github.com/connect-sdk/batch-api
 
 go 1.21.1
-toolchain go1.23.6
+toolchain go1.24.1
 
 require (
 	cloud.google.com/go/longrunning v0.6.5
@@ -9,7 +9,7 @@ require (
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	github.com/googleapis/gax-go/v2 v2.14.1
 	google.golang.org/api v0.225.0
-	google.golang.org/genproto/googleapis/api v0.0.0-20250219182151-9fdb1cabc7b2
+	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/protobuf v1.36.5
 )
 
@@ -18,7 +18,7 @@ require (
 	cloud.google.com/go/auth v0.15.0 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.7 // indirect
 	cloud.google.com/go/compute/metadata v0.6.0 // indirect
-	cloud.google.com/go/iam v1.3.1 // indirect
+	cloud.google.com/go/iam v1.4.1 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.2.1 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
@@ -43,6 +43,6 @@ require (
 )
 
 require (
-	cloud.google.com/go/batch v1.12.0
-	google.golang.org/genproto v0.0.0-20250122153221-138b5a5a4fd4 // indirect
+	cloud.google.com/go/batch v1.12.1
+	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb // indirect
 )
