@@ -8,9 +8,9 @@ require (
 	cloud.google.com/go/longrunning v0.6.7
 	connectrpc.com/connect v1.18.1
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
-	github.com/googleapis/gax-go/v2 v2.14.2
+	github.com/googleapis/gax-go/v2 v2.15.0
 	google.golang.org/api v0.241.0
-	google.golang.org/genproto/googleapis/api v0.0.0-20250505200425-f936aa4a68b2
+	google.golang.org/genproto/googleapis/api v0.0.0-20250603155806-513f23925822
 	google.golang.org/protobuf v1.36.6
 )
 
@@ -45,5 +45,5 @@ require (
 
 require (
 	cloud.google.com/go/batch v1.12.2
-	google.golang.org/genproto v0.0.0-20250505200425-f936aa4a68b2 // indirect
+	google.golang.org/genproto v0.0.0-20250603155806-513f23925822 // indirect
 )
