@@ -10,7 +10,7 @@ require (
 	github.com/connect-sdk/pubsub-api v0.0.0-20240219232254-21d6a9367c0e
 	github.com/googleapis/gax-go/v2 v2.15.0
 	google.golang.org/api v0.252.0
-	google.golang.org/genproto/googleapis/api v0.0.0-20250707201910-8d1bb00bc6a7
+	google.golang.org/genproto/googleapis/api v0.0.0-20250818200422-3122310a409c
 	google.golang.org/protobuf v1.36.10
 )
 
@@ -44,6 +44,6 @@ require (
 )
 
 require (
-	cloud.google.com/go/batch v1.12.2
+	cloud.google.com/go/batch v1.13.0
 	google.golang.org/genproto v0.0.0-20250603155806-513f23925822 // indirect
 )
